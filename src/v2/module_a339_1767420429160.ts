@@ -1,0 +1,1 @@
+const util_a339 = (d: any) => d;
